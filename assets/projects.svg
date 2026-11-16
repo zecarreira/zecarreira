@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-label="Projects: Spendzilla, Jantar do Vinho, Home Lab">
+<rect width="1200" height="205" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="1" y="2" width="386" height="190" rx="14" fill="#13243b" stroke="#345475" stroke-width="1.5"/>
+<circle cx="44" cy="46" r="19" fill="#294b6d"/><path d="M32 42 h24 v17 h-24 z M32 46 h24" fill="none" stroke="#c8e0f7" stroke-width="2" stroke-linejoin="round"/><circle cx="50" cy="52" r="2" fill="#c8e0f7"/>
+<text x="29" y="94" font-size="25" font-weight="bold" fill="#f4f7fc">Spendzilla</text><text x="29" y="126" font-size="17" fill="#c0d1e2">Personal finance</text><text x="29" y="150" font-size="17" fill="#c0d1e2">Web &amp; iOS</text>
+<rect x="407" y="2" width="386" height="190" rx="14" fill="#13243b" stroke="#345475" stroke-width="1.5"/>
+<circle cx="450" cy="46" r="19" fill="#294b6d"/><path d="M444 33 h12 l-2 15 q-4 7 -8 0z M450 55 v5 M442 61 h16" fill="none" stroke="#c8e0f7" stroke-width="2" stroke-linejoin="round"/>
+<text x="435" y="94" font-size="25" font-weight="bold" fill="#f4f7fc">Jantar do Vinho</text><text x="435" y="126" font-size="17" fill="#c0d1e2">Blind wine tastings</text><text x="435" y="150" font-size="17" fill="#c0d1e2">A little app for friends</text>
+<rect x="813" y="2" width="386" height="190" rx="14" fill="#13243b" stroke="#345475" stroke-width="1.5"/>
+<circle cx="856" cy="46" r="19" fill="#294b6d"/><rect x="844" y="35" width="24" height="9" rx="2" fill="none" stroke="#c8e0f7" stroke-width="2"/><rect x="844" y="47" width="24" height="9" rx="2" fill="none" stroke="#c8e0f7" stroke-width="2"/><circle cx="850" cy="40" r="1.5" fill="#c8e0f7"/><circle cx="850" cy="52" r="1.5" fill="#c8e0f7"/>
+<text x="841" y="94" font-size="25" font-weight="bold" fill="#f4f7fc">Home Lab</text><text x="841" y="126" font-size="17" fill="#c0d1e2">Self-hosting &amp; networking</text><text x="841" y="150" font-size="17" fill="#c0d1e2">Automation &amp; operations</text>
+</g></svg>

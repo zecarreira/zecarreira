@@ -1,13 +1,8 @@
-
-# Building things.
-
-**José Carreira** · Software Developer
-
-Software, systems, and everything in between.
+<p align="center">
+  <img src="./assets/header.svg" alt="Building things. José Carreira — Software Developer" width="100%" />
+</p>
 
 I enjoy turning ideas into working applications, exploring infrastructure, and understanding what happens behind the scenes.
-
----
 
 ### Currently exploring
 
@@ -20,9 +15,7 @@ I enjoy turning ideas into working applications, exploring infrastructure, and u
 
 ### A few things I've built
 
-**Spendzilla** — Personal finance across web and iOS.  
-**Jantar do Vinho** — A blind wine-tasting app for friends.  
-**Home Lab** — Self-hosting, networking, automation, and the systems behind my projects.
+<img src="./assets/projects.svg" alt="Spendzilla: personal finance for web and iOS; Jantar do Vinho: blind wine tasting app; Home Lab: self-hosting and automation" width="100%" />
 
 ### Tools I often reach for
 
