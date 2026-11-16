@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**zecarreira/zecarreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Building things.
 
-Here are some ideas to get you started:
+**José Carreira** · Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software, systems, and everything in between.
+
+I enjoy turning ideas into working applications, exploring infrastructure, and understanding what happens behind the scenes.
+
+---
+
+### Currently exploring
+
+```text
+~/building
+  web & mobile applications
+  self-hosted infrastructure
+  AI-assisted software engineering
+```
+
+### A few things I've built
+
+**Spendzilla** — Personal finance across web and iOS.  
+**Jantar do Vinho** — A blind wine-tasting app for friends.  
+**Home Lab** — Self-hosting, networking, automation, and the systems behind my projects.
+
+### Tools I often reach for
+
+`TypeScript` · `React` · `NestJS` · `Python` · `PostgreSQL` · `Docker` · `Linux` · `Cloudflare`
+
+---
+
+Based in Portugal · [LinkedIn](https://www.linkedin.com/in/jose-carreira/)
+
+*Always learning. Usually building something.*
